@@ -164,7 +164,7 @@ alegrocart
 inurl:/hbcms/php/
 inurl:"list.php?lcat_id="
 Designed and Developed by karkia E-commerce
-"hlstats.php?mode=dailyawardinfo&award=" hlstatsx
+"hlstats.php?mode=dailyawardinfo&award;=" hlstatsx
 Powered by Plogger!
 Help Desk Software by Kayako SupportSuite v3.70.02
 "powered by dataface" "powered by xataface"
@@ -192,7 +192,7 @@ allintext:"Browse our directory of our members top sites or create your own for 
 "ParsBlogger ? 2006. All rights reserved"
 "Powered by: PhotoPost PHP 4.6" or "Powered by: PhotoPost PHP 4.5"
 "Powered by PG Online Training Solution - learning management system"
-inurl:cart.php?m=features&id=
+inurl:cart.php?m=features&id;=
 "Bu Site Ticimax E-Ticaret yazılımı ile hazırlanmıştır."
 Powered by: Arab Portal inurl:mod.php?mod=html
 Powered by NKINFOWEB VSp © 2009
@@ -209,7 +209,7 @@ inurl:"inurl:file.php?recordID="
 "Powered by myBusinessAdmin and Red Cow Technologies, Inc."
 "Powered by cityadmin and Red Cow Technologies, Inc."
 "Powered by RealAdmin and Red Cow Technologies, Inc."
-mod.php?mod=publisher&op=printarticle&artid=
+mod.php?mod=publisher&op;=printarticle&artid;=
 inurl:"index.php?option=com_spa"
 inurl:"photo_album.php?alb_id="
 intext : "Website by conceptinternetltd"
@@ -303,7 +303,7 @@ intitle:"igenus webmail login"
 intext:"Designed by Spaceacre"
 This site is powered by e107, which is released under the terms of the GNU GPL License.
 "S-CMS by matteoiamma"
-inurl:"cal_day.php?op=day&catview="
+inurl:"cal_day.php?op=day&catview;="
 netGitar.com - Shop v1.0
 allinurl:fullview.php?tempid=
 www.stwc-counter.de
@@ -389,7 +389,7 @@ inurl:"jscripts/tiny_mce/plugins/tinybrowser/" OR inurl:"jscripts/tiny_mce/plugi
 "Powered by: PHP Link Directory"
 Photo Gallery powered by TinyWebGallery 1.8.3
 site:ebay.com inurl:callback
-http://www.google.com/#sclient=psy&hl=en&safe=off&site=&source=hp&q=:inurl%3Amj_wwwusr&aq=f&aqi=&aql=&oq=&pbx=1&fp=2dcb6979649afcb0
+http://www.google.com/#sclient=psy&hl;=en&safe;=off&site;=&source;=hp&q;=:inurl%3Amj_wwwusr&aq;=f&aqi;=&aql;=&oq;=&pbx;=1&fp;=2dcb6979649afcb0
 allintext: /qcodo/_devtools/codegen.php
 "Powered By Dew-NewPHPLinks v.2.1b"
 "powered by zipbox media"
@@ -749,7 +749,7 @@ Powered by: PhotoPost PHP 4.6
 "powered by Pagetool"
 powered by jshop
 /modules/mx_links/
-inurl:"?pageNum_RSnews"&view
+inurl:"?pageNum_RSnews"&view;
 inurl:index.php?option=com_directory
 "Powered By DynamicPAD"
 "Powered by : elkagroup.com"
@@ -1471,7 +1471,7 @@ inurl:add_soft.php
 "Powered by Absolute Podcast"
 "Copyright-2008@zeejobsite.com"
 inurl:"index.php?option=com_jp_jobs"
-http://www.google.com/search?source=ig&hl=fr&rlz=&q=allinurl:+Category.php%3FIndustrYID%3D
+http://www.google.com/search?source=ig&hl;=fr&rlz;=&q;=allinurl:+Category.php%3FIndustrYID%3D
 index2.php?option=com_joomlaboard
 inurl:"cameralife/index.php"
 inurl:option=com_huruhelpdesk
@@ -1680,7 +1680,7 @@ inurl:option=com_mv_restaurantmenumanager
 inurl:"com_ajaxchat"
 Powered by: AIH v2.3
 inurl:/macgurublog_menu/
-inurl:"?page=duyurular_detay&id="
+inurl:"?page=duyurular_detay&id;="
 "X-CART. Powerful PHP shopping cart software"
 allinurl:offers.php?id=
 "Powered By HASHE"
@@ -1940,7 +1940,7 @@ inurl:"index.php?option=com_jeajaxeventcalendar"
 inurl:"index.php?option=com_competitions"
 inurl:"index.php?option=com_storedirectory"
 inurl:"index.php?option=com_catalogue"
-inurl:index.php?option=com_doqment&cid=
+inurl:index.php?option=com_doqment&cid;=
 inurl:"index.php?option=com_annuaire"
 "Powered By Dejcom Market CMS"
 "SOOP Portal 2.0"
@@ -2193,3 +2193,24 @@ Server: Mida eFramework
 intitle:"Powered by Pro Chat Rooms"
 inurl:"woocommerce-exporter"
 inurl:opac_css
+intitle:"Please Login" "Use FTM Push"
+"Powered by vBulletin(R) Version 5.6.3"
+inurl:/wp-content/themes/altair/
+inurl:/pro_users/login
+inurl:/cgi-bin/manlist?section
+intext:"Incom CMS 2.0"
+"machform" inurl:"view.php"
+inurl:"/console/login/LoginForm.jsp"
+inurl:uno.php
+inurl:"/wp-content/plugins/super-forms/"
+"Powered By Best Support System"
+inurl:/calendar/calendar_form.php
+inurl:/ics?tool=search
+inurl:"telerik.web.ui.webresource.axd?type=rau"
+inurl:"/lib/editor/atto/plugins/managefiles/" | inurl:"calendar/view.php?view=month"
+"citsmart.local"
+inurl:"wp-content/plugins/wp-super-edit/superedit/" | inurl:"wp-content/plugins/wp-super-edit/superedit/tinymce_plugins/mse/fckeditor/editor/filemanager/upload/"
+inurl:wp-content/plugins/1-flash-gallery
+inurl:"/wp-content/plugins/123ContactForm
+inurl:wp-content/plugins/Ultimate-member
+inurl:/wp-content/plugins/wpdiscuz/
